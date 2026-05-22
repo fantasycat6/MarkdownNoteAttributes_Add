@@ -10,3 +10,5 @@ venv/
 .DS_Store
 *.log
 *.db
+
+git-push.bat
