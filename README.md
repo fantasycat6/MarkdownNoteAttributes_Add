@@ -10,6 +10,14 @@ A tool for managing frontmatter properties in Markdown files. This tool is desig
 - Theme switching (dark/light)
 - Preserve existing published date when updating
 
+## Screenshots
+
+### Light Theme
+![Light Theme](docs/images/20260522-155807.png)
+
+### Dark Theme
+![Dark Theme](docs/images/20260522-155819.png)
+
 ## Requirements
 
 - Python 3.x
@@ -18,6 +26,9 @@ A tool for managing frontmatter properties in Markdown files. This tool is desig
 ## Installation
 
 ```bash
+git clone https://github.com/fantasycat6/MarkdownNoteAttributes_Add.git
+cd MarkdownNoteAttributes_Add
+
 pip install -r requirements.txt
 ```
 
