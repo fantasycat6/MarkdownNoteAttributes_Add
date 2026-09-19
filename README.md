@@ -1,4 +1,4 @@
-# MarkdownNoteAttributes_Add
+# MarkdownNoteAttributes
 
 A tool for managing frontmatter properties in Markdown files. This tool is designed to work with the [Firefly blog project](https://github.com/CuteLeaf/Firefly), helping you manage and modify note frontmatter properties efficiently.
 
